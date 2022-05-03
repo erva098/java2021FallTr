@@ -19,7 +19,7 @@ public class Cons02 {
 
         */
 
-        //baskalarinin kodu calisiyorsa bozulmasin diye default cons yerine bir parametresiz cons olustururuz
+
         Cons01 obj2=new Cons01("java");
 
     }
